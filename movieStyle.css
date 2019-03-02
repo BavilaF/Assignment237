@@ -1,9 +1,0 @@
-/**
-*This uses require and puts an asterisk after the control
-*label. I know it did not work, but I do know how to insert
-*the asterisk.
-*/
-.form-group.required .control-label:after {
-  content: " *";
-  color: red;
-}
